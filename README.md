@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Foreverinsearch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Роман - PHP-разработчик 
+**📍 Архангельск** | **📧 rova.leo@yandex.ru** 
 
-<!---
-Foreverinsearch/Foreverinsearch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Мои навыки:  
+- PHP, MySQL, HTML/CSS  
+- Парсинг данных, работа с API  
+- Исправление багов, оптимизация кода  
+
+## 🔥 Проекты:  
+- [Парсер цен](parser.php) — сбор данных с сайтов.  
+- [Сайт-визитка](index.html) — пример вёрстки.  
+
+## 📌 Как со мной связаться:  
+- Telegram: [@твой_ник](https://t.me/it_help54)   
